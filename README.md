@@ -1,2 +1,2 @@
-# c-problems-200
-<h3>Challenge to solve 200 problems using C programming language!!!</h3>
+# c-problems-80
+<h3>Challenge to solve 80 problems using C programming language!!!</h3>
